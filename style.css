@@ -1,0 +1,47 @@
+media (max-width:600px) {
+
+
+
+   .navigasi {
+      display: none;
+   }
+
+   .shop {
+      margin-right: 20px;
+      margin-left: auto;
+   }
+
+   .col-kiri,
+   .col-kanan {
+      width: 100%;
+      text-align: center;
+      padding: 20px;
+   }
+
+   .col-produk,
+   .col-team,
+   .col-kontak {
+      width: 50%;
+   }
+
+   .best-seller {
+      padding-left: 30px;
+      padding-right: 30px;
+   }
+
+   .col-review {
+      width: 100%;
+      margin-bottom: 30px;
+   
+}
+
+.btn-pink {
+            background-color: rgb(154, 16, 39);
+            color: #fff;
+        }
+
+        .btn-pink:hover {
+            background-color: rgb(85, 7, 20);
+            color: #fff;
+        }
+        
